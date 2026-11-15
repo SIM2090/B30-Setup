@@ -1,4 +1,4 @@
 {
-  "payload": "{\"devices\":[{\"enabled\":false,\"exp\":\"2099-12-31\",\"hwid\":\"0D51-6FD3-97A3\",\"max_intersections\":4,\"name\":\"DESKTOP-K81RHGI\"}],\"note\":\"پنل مجوز B30 — مدیریت آنلاین\",\"updated\":\"2026-11-15\"}",
-  "sig": "TqePFhBoGUaLTH2ZudTaEoxzHmYA4+XkAPxK5ss5MIo/XQ2dXL2jqq5LSIzPvXPNJFrwefGrSlz3pBHk+gonTGx4I9zkD++xWBwq4g9vNDvjcgKfAl2hHUNrDJh7iFwJhXf6NacNUZGiCTZvdeDX6XYvOZSHPGveU2pYwW+G7YP64atWMGYyw8YZWOoy4TjXYhfgnBunE7LdnfRxJS5VBxQnTvocdBlv2o3TzdWRl6YsSOZCBrRaXiz/we6ZXrOs2iyFHEKKjp6RkXR6ifAR0qWmqZTybWkYj4u/gjJjVOzuWvIqbKXMWDkatBfA6qGXCM5hCAQ4JTaeOTeZC8TEtQ=="
+  "payload": "{\"devices\":[],\"note\":\"پنل مجوز B30 — مدیریت آنلاین\",\"updated\":\"2026-11-15\"}",
+  "sig": "RGS5LG/sWvMjSn+F8TzIumaFLdAtz7/LXy5eEikt4BbsW9EccaU6UpchLcCeqJ+RqrL8XTb60md02LMq3G/2fmm/loMZ2qSbXRkNU85qoBdySRLM/dd3T1MLFIfatMjX8zlUJrfvx+wBy/7zlG+0ZwEAv1QG25xKckdXGt05PEWwuj6XPAhlldf4HMIBslllyN+xNiMVxGoKMrLamM3kSVqRdAiDXR0Pq96577q3WNPa3RVz0l/dC2jmZ0tGJFytyA9YKPYQpWSfnJ74X7to1qoWAcHlj1C7puUsyGDXWmPE5wvh3rswY6d1gvrSuqTMQ/odDWNyvG3wk0JGrL86DQ=="
 }
