@@ -1,4 +1,4 @@
 {
-  "payload": "{\"devices\":[{\"enabled\":true,\"exp\":\"2099-12-31\",\"hwid\":\"0D51-6FD3-97A3\",\"max_intersections\":4,\"name\":\"DESKTOP-K81RHGI\"}],\"note\":\"پنل مجوز B30 — مدیریت آنلاین\",\"updated\":\"2026-11-15T14:34:11.528Z\"}",
-  "sig": "Ii+1q96o3eURUYTLn6wUwV8MbhqG6fUzQMJmwQhV/DzE9/AAejJwoL+TL6InWqFvcHJAyMCx2oJp4VrSELqeqArfvIvwrKk3SMw9nr2KZPBDl3az217ChPeFBTI3n2pHWWG4BU0rxnPotwMNv+0q9xJAdgRD+BHQBkhiPONBXn4BXUxUxZYZM6100i3xpSWi/1KI5aIjBbV05B0SoiP3cVEY2lo4tdRrqQ3+lt1xxxuYY4br0q9lWPQzMXTQKl3m5JhUm4yWr8tQW2FFYqRNxQcQxiYjj613U0/TmtwGa5LdbCwkuwORrke2yr2OEb8N/QXd6ZXjeuurtbzHXrCsBQ=="
+  "payload": "{\"devices\":[{\"enabled\":true,\"exp\":\"2099-12-31\",\"hwid\":\"0D51-6FD3-97A3\",\"max_intersections\":4,\"name\":\"SIM\"}],\"note\":\"پنل مجوز B30 — مدیریت آنلاین\",\"updated\":\"2026-11-15T14:38:43.237Z\"}",
+  "sig": "Eb8dAnGCiiwCrvWMb1GeyYX9/FWo7RfEdNAiSEhRTCgIRt1VQhHT7A5mrfGfd+/OnZwJnQQywRXsTATdmIWpFtNdfhJrC0j5yQ8rnpclHBy7sDuFwWHTNuE+THMHxgRFo0jeuScng3Y04Z5QV5inBwuYPzXckB4HFnDwNvyqp6jtoSZe2HfGD/RrRQ1pgZw0TcEZz6N1942qrY/rK8nwoQJc4u7No2pSJNLyvB9jD3zf/ISrWsyiM+eYk06e3v7muAtUT07ypKbRjx+7qSkKLSNh/y9LROfIKejGcoOFFXuRenH9qIcFAknhImjrgry0bszWIVrVz5FyhPaJa0gxJA=="
 }
