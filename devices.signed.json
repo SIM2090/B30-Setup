@@ -1,4 +1,4 @@
 {
-  "payload": "{\"devices\":[{\"enabled\":true,\"exp\":\"2099-12-31\",\"hwid\":\"0D516FD397A3\",\"max_intersections\":4,\"name\":\"soheil\"}],\"note\":\"پنل مجوز B30 — مدیریت آنلاین\",\"updated\":\"2026-11-15\"}",
-  "sig": "UXv9e1rSz+jo25xn8FtuiaPbVFoYG++ZdOoSfdU1CCUPLvS6Ou/7a/RWty6njgBc06qS3dLgpkiml+7p/A5FFarr535d4pNU3KJYWS/S9YwolQxMeLjoPVx7CRpUTFGq4biv+650ytmqR8DMiXG3rxbWHHTg0LP+rOEuM4DtQ8Ymqi1dW+pXakSmt2X+R/zNFru4jIZc069Cegj9gJJReCSqgt7GiwTBZRDl9v79zUl8FwgwNkwAKa4RRg6/4K9fj7Hr770VU/+i2+Q5JQv54q69k7Z/nQrxvn1XPmibB+Bx5CFVc24wBqlZruGXuwI22T8xVX92ImYMnPDU+vWM/A=="
+  "payload": "{\"devices\":[{\"enabled\":true,\"exp\":\"2099-12-31\",\"hwid\":\"0D516FD397A3\",\"max_intersections\":4,\"name\":\"soheil\"},{\"enabled\":true,\"exp\":\"2099-12-31\",\"hwid\":\"0D51-6FD3-97A3\",\"max_intersections\":4,\"name\":\"DESKTOP-K81RHGI\"}],\"note\":\"پنل مجوز B30 — مدیریت آنلاین\",\"updated\":\"2026-11-15\"}",
+  "sig": "vO0dPa6915hZtJNhtN2HBuX9q8AbiUhaukRDTd3Tz74F3t15Volw34F/ozZUbbtjFCfWR7eMzZm9wHr/M0cove/1ITy5jUQyBMbNAvwRvctVGoiZn4YAFGg8MHeej1HKto9YZFPy2HnGvLXspU43MEiKlkQSlQ9E7IDiOkINavfxe+U13iSw5umaZtsQr2zqWLGJYl0OzYhwnV0JNJV/JGBCinrvXsJBBfg5kRwnWUfhvrwriBUy10B8k1FDZH7AftJHxFl4mfcUH16QZOGKskdTmy5sBBzqwpOXPWXpbWV0uknrgYqu7R9j2vTI6ArO1YwWGoyGVVfqc5uN0oeEGQ=="
 }
