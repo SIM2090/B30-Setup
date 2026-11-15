@@ -1,4 +1,4 @@
 {
-  "payload": "{\"devices\":[{\"enabled\":true,\"exp\":\"2099-12-31\",\"hwid\":\"0D51-6FD3-97A3\",\"max_intersections\":4,\"name\":\"soheil\"}],\"note\":\"پنل مجوز B30 — مدیریت آنلاین\",\"updated\":\"2026-11-15\"}",
-  "sig": "Lefsot4fCK5JCjjDkTSFp8B0w4nvlKXBQcl/X55bWmLPRc4NJRk8qj9FYLXF3DJEZUYMldIdNVGuEn9v7DNk52MZT1yKrfbGl6S62drm/JGrHP2ENZK25hw3icLvMHsJnjti3VFxkfse2yIUaH3E8XSzNtdV5vRP3qnaoz3bHvjKgLVT8pymn/4y4FiRdZZxLRxil5vjLw26gxY+ALCCpUUh0+eblSmq1RjnoZnVeuIU+uQPTpUtCJXmAKSd273DI7Kbqe4FgL+UrOa0tUkvfgQR/JxjR9cuTJ4klfWOjVAs0lvpLgEQI5ZFMszWuT9t1FFvD4jcUc+Nhxl5dyfEXg=="
+  "payload": "{\"devices\":[{\"enabled\":true,\"exp\":\"2099-12-31\",\"hwid\":\"0D516FD397A3\",\"max_intersections\":4,\"name\":\"soheil\"}],\"note\":\"پنل مجوز B30 — مدیریت آنلاین\",\"updated\":\"2026-11-15\"}",
+  "sig": "UXv9e1rSz+jo25xn8FtuiaPbVFoYG++ZdOoSfdU1CCUPLvS6Ou/7a/RWty6njgBc06qS3dLgpkiml+7p/A5FFarr535d4pNU3KJYWS/S9YwolQxMeLjoPVx7CRpUTFGq4biv+650ytmqR8DMiXG3rxbWHHTg0LP+rOEuM4DtQ8Ymqi1dW+pXakSmt2X+R/zNFru4jIZc069Cegj9gJJReCSqgt7GiwTBZRDl9v79zUl8FwgwNkwAKa4RRg6/4K9fj7Hr770VU/+i2+Q5JQv54q69k7Z/nQrxvn1XPmibB+Bx5CFVc24wBqlZruGXuwI22T8xVX92ImYMnPDU+vWM/A=="
 }
