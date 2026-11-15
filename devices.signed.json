@@ -1,4 +1,4 @@
 {
-  "payload": "{\"devices\":[{\"enabled\":true,\"exp\":\"2099-12-31\",\"hwid\":\"0D51-6FD3-97A3\",\"max_intersections\":4,\"name\":\"SIM\"}],\"note\":\"پنل مجوز B30 — مدیریت آنلاین\",\"updated\":\"2026-11-15T14:38:43.237Z\"}",
-  "sig": "Eb8dAnGCiiwCrvWMb1GeyYX9/FWo7RfEdNAiSEhRTCgIRt1VQhHT7A5mrfGfd+/OnZwJnQQywRXsTATdmIWpFtNdfhJrC0j5yQ8rnpclHBy7sDuFwWHTNuE+THMHxgRFo0jeuScng3Y04Z5QV5inBwuYPzXckB4HFnDwNvyqp6jtoSZe2HfGD/RrRQ1pgZw0TcEZz6N1942qrY/rK8nwoQJc4u7No2pSJNLyvB9jD3zf/ISrWsyiM+eYk06e3v7muAtUT07ypKbRjx+7qSkKLSNh/y9LROfIKejGcoOFFXuRenH9qIcFAknhImjrgry0bszWIVrVz5FyhPaJa0gxJA=="
+  "payload": "{\"devices\":[{\"enabled\":true,\"exp\":\"2099-12-31\",\"hwid\":\"0D51-6FD3-97A3\",\"max_intersections\":4,\"name\":\"SIM\"},{\"enabled\":true,\"exp\":\"2099-12-31\",\"hwid\":\"8402-351E-EE9C\",\"max_intersections\":19,\"name\":\"DESKTOP-MRNA1BN\"}],\"note\":\"پنل مجوز B30 — مدیریت آنلاین\",\"updated\":\"2026-11-15T14:45:13.936Z\"}",
+  "sig": "tLzhtlFzeO1O12a3hKWesnJMBwqp5fJ1BANZ78OkTHaL+dhSGKzoAPUGL5ppkeU2s6+s2Y4sOO9sQ1wDiOtIccCCh/rD6T8YWCVInjXqXZbh3CLS3eT2ZSOBjmOFzrOupyIWUOyObEUbWzXSiZfEguKLZBmL0JOsiTj3p/8/aVsmRoxrANNNaWP5P8oiKXVYo+8w/fwLv2Q3uTwmDlVw6NK/eHXB11+5wPZBFT0wsoeueacNhnenvsw8Yvmep7vNP2mTO+LXsOGNbd4zR7bp9xxP9vLCu5/HLGG8CiqLQSQkI8v/kA9pBWTxIaStJ2A3F1YT9RPGIZAjELEd8T5GvQ=="
 }
